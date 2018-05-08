@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/repository/SAMPLE-SNAPSHOT/</url>
+            <url>http://localhost:8081/repository/JavaPipeline</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
